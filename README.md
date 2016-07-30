@@ -134,6 +134,7 @@ For EReader devices (kindle, kobo, pocketbook, ubuntu-touch)
 
 To build installable package for Kindle:
 ```
+./kodev build kindle
 ./kodev release kindle
 ```
 
